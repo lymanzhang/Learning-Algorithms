@@ -1,3 +1,7 @@
+## 在python中调用matplotlib的实践
+### 开发环境
+- pycharm
+
 ```
 
 """
@@ -18,3 +22,5 @@ plt.scatter(x, y, s=area, c=colors, alpha=0.5)
 plt.show()
 
 ```
+输出如下图所示
+![plot]()
