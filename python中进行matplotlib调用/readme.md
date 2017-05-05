@@ -23,4 +23,4 @@ plt.show()
 
 ```
 输出如下图所示
-![plot]()
+![plot](https://github.com/lymanzhang/LearningPythonProgramming/blob/master/python%E4%B8%AD%E8%BF%9B%E8%A1%8Cmatplotlib%E8%B0%83%E7%94%A8/plot.PNG)
